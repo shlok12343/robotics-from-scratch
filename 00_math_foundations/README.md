@@ -8,7 +8,8 @@ Robotics is built on the language of Linear Algebra. Whether it's the position o
 - **Scalar Multiplication**: Scaling a direction (e.g., increasing speed).
 - **Dot Product**: Measuring how much two vectors point in the same direction (useful for projections).
 - **Magnitude**: Calculating the distance or length of a vector.
+- **2D Rotations**: Changing the orientation of a point or vector in a plane.
 
 ## Why this matters:
-Every coordinate system transformation and kinematic chain starts with these simple operations.
+Every coordinate system transformation and kinematic chain starts with these simple operations. Knowing how to move and rotate objects is the core of robot motion.
 
