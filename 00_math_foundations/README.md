@@ -8,6 +8,8 @@ Robotics is built on the language of Linear Algebra. Whether it's the position o
 - **Scalar Multiplication**: Scaling a direction (e.g., increasing speed).
 - **Dot Product**: Measuring how much two vectors point in the same direction (useful for projections).
 - **Magnitude**: Calculating the distance or length of a vector.
+- **Normalization**: Turning a vector into a "Unit Vector" (length = 1) to represent pure direction.
+- **Cross Product**: Finding a vector perpendicular to two others (critical for 3D rotations and physics).
 - **2D Rotations**: Changing the orientation of a point or vector in a plane.
 
 ## Why this matters:
