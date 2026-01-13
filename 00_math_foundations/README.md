@@ -11,6 +11,10 @@ Robotics is built on the language of Linear Algebra. Whether it's the position o
 - **Normalization**: Turning a vector into a "Unit Vector" (length = 1) to represent pure direction.
 - **Cross Product**: Finding a vector perpendicular to two others (critical for 3D rotations and physics).
 - **2D Rotations**: Changing the orientation of a point or vector in a plane.
+- **Visualization**: Using `matplotlib` to see vectors and transformations in action.
+
+## Dependencies:
+- `matplotlib` (Optional, for running visualization scripts)
 
 ## Why this matters:
 Every coordinate system transformation and kinematic chain starts with these simple operations. Knowing how to move and rotate objects is the core of robot motion.
